@@ -1,2 +1,18 @@
-# IPL-Score-Prediction-Model
-I built an IPL First Inning Score Prediction Model using a regression-based approach. 🏏📊  🔹 Dataset: Ball-by-ball information from IPL Seasons 1–10 (2008–2017). 🔹 Goal: Predict the first innings score of a match in real time. 🔹 Approach: Applied regression techniques to analyze match dynamics and deliver accurate predictions. 
+**🏏 IPL First Inning Score Prediction**  
+
+This project uses Machine Learning (Regression) to predict the first innings score of an IPL match, based on ball-by-ball data from IPL Season 1 to 10 (2008–2017).  
+**📌 Project Overview**  
+**Goal:** Predict the final first innings score in real-time as the match progresses.  
+**Dataset: ]** Ball-by-ball IPL data (2008–2017).  
+**Approach:** Regression-based predictive modeling.  
+**Output:** Estimated first innings score.  
+
+**⚙️ Tech Stack**  
+**Languages:** Python  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+
+**Models Used:**  
+Decision Tree Regressor 🌳  
+Random Forest Regressor 🌲  
+Neural Network (MLP) 🧠  
+

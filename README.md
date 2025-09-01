@@ -16,3 +16,18 @@ Decision Tree Regressor 🌳
 Random Forest Regressor 🌲  
 Neural Network (MLP) 🧠  
 
+Here are some visuals from the project:
+## Project Screenshots  
+
+
+![Screenshot 1](Screenshot%202025-09-01%20172020.png)  
+![Screenshot 2](Screenshot%202025-09-01%20172038.png)  
+![Screenshot 3](Screenshot%202025-09-01%20172101.png)  
+![Screenshot 4](Screenshot%202025-09-01%20172119.png)  
+![Screenshot 5](Screenshot%202025-09-01%20172227.png)  
+![Screenshot 6](Screenshot%202025-09-01%20172254.png)  
+![Screenshot 7](Screenshot%202025-09-01%20172314.png)  
+![Screenshot 8](Screenshot%202025-09-01%20172338.png)  
+![Screenshot 9](Screenshot%202025-09-01%20172351.png)  
+![Screenshot 10](Screenshot%202025-09-01%20172358.png)  
+
